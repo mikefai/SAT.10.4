@@ -1,0 +1,9 @@
+{
+  "name": "sat-math-mastery-2026",
+  "version": "1.0.0",
+  "private": true,
+  "description": "2026 Digital SAT Math Field Notebook & Master Curriculum",
+  "scripts": {
+    "build": "echo 'Build complete'"
+  }
+}
